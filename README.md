@@ -1,5 +1,5 @@
 # My-favourite-cars
-This repository contains a ReactJS Application project named as my-react-project.<br>
+This repository contains a ReactJS Application project after extracting the folder, named as my-react-project.<br>
 To run this project follow below instructions:<br>
 First copy this project to desctop or any specific folder <br>
 Next, open command prompt and change path to desktop or that particular directory where you have copied my-react-project folder.<br>
